@@ -1,0 +1,6 @@
+{
+  "name": "ReflectAI - Journal & Reflection Workspace",
+  "description": "User-authenticated multi-turn reflective journaling and brainstorming companion powered by Gemini and Cloud Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
